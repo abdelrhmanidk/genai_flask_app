@@ -160,9 +160,11 @@ Generates AI responses based on user input.
 - **Pydantic**: Data validation
 - **Python-dotenv**: Environment variable management
 
-## 📄 License
+## 📄 License & Attribution
 
-This project is open source and available under the MIT License.
+This project was created as part of the IBM course "Develop Generative AI Applications: Get Started" on Coursera. 
+
+**Note**: This repository is for educational and portfolio purposes. Some code structure and concepts may be based on course materials provided by IBM. Please refer to the course terms of service and IBM's usage policies for any questions regarding licensing or redistribution of course materials.
 
 ## 🤝 Contributing
 
